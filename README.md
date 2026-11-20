@@ -28,7 +28,7 @@
 <h3>🛡️ Featured Projects & Security Labs</h3>
 
 <p align="center">
-  <a href="https://github.com/anirudhadg04/SecureBox"><img src="./cards/card-securebox.svg" width="49.5%" alt="SecureTheBox" /></a>
+  <a href="https://github.com/anirudhadg04/SecureBox"><img src="./cards/card-securebox.svg" width="49.5%" alt="SecureBox" /></a>
   <a href="https://github.com/anirudhadg04/VerySecureWebsite"><img src="./cards/card-verysecurewebsite.svg" width="49.5%" alt="VerySecureWebsite" /></a>
 </p>
 <p align="center">
