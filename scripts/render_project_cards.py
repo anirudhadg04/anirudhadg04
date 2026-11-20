@@ -18,33 +18,9 @@ PROJECTS = [
         "badge_color": "#39d353",
         "badge_bg": "rgba(57, 211, 83, 0.15)",
         "desc": "Privacy-first client-side document & archive protection. Native Web Crypto AES-256-GCM encryption with AAD-bound binary envelopes & SHA-256 integrity verification.",
-        "tags": ["Web Crypto API", "AES-256-GCM", "TypeScript", "JSZip", "49 Tests"],
+        "tags": ["AES-256-GCM", "Web Crypto API", "TypeScript", "JSZip", "49 Tests"],
         "footer_l": "Zero Unencrypted Disk Artifacts",
         "footer_r": "v2.0 Archive Format"
-    },
-    {
-        "id": "tabzero",
-        "title": "tabzero.",
-        "cmd": "cat ~/projects/tabzero.kt",
-        "badge": "MINDFUL TECH & ATTENTION",
-        "badge_color": "#22d3ee",
-        "badge_bg": "rgba(34, 211, 238, 0.15)",
-        "desc": "Mindful digital living ecosystem. Cross-platform extension & native Android APK replacing infinite scrolling with calm nature sanctuaries and dynamic weather focus nudges.",
-        "tags": ["Android APK", "Chrome / Firefox", "Local-First", "Focus Engine"],
-        "footer_l": "v1.0.2 Public Release",
-        "footer_r": "100% Offline & Private"
-    },
-    {
-        "id": "anvation",
-        "title": "Anvation 1.0",
-        "cmd": "cat ~/projects/anvation.ts",
-        "badge": "HACKATHON PLATFORM",
-        "badge_color": "#f2cc60",
-        "badge_bg": "rgba(242, 204, 96, 0.15)",
-        "desc": "Full-stack event platform for KSSEM Anvation national 24h hackathon. Real-time team registration, UTR payment verification, milestone tracking, and RBAC judging portals.",
-        "tags": ["React", "Express", "Node.js", "Vite", "Tailwind CSS", "RBAC"],
-        "footer_l": "50K Prize Pool · 24h Hackathon",
-        "footer_r": "Full-Stack Portal"
     },
     {
         "id": "appsec",
@@ -57,6 +33,30 @@ PROJECTS = [
         "tags": ["Python", "Flask", "Pytest", "AppSec", "BOLA/IDOR", "XSS Labs"],
         "footer_l": "Automated Pytest Verifiers",
         "footer_r": "Security Research"
+    },
+    {
+        "id": "cyberlabs",
+        "title": "CyberLabs",
+        "cmd": "cat ~/projects/cyberlabs.sh",
+        "badge": "OFFENSIVE SECURITY",
+        "badge_color": "#f2cc60",
+        "badge_bg": "rgba(242, 204, 96, 0.15)",
+        "desc": "Hands-on offensive security research repository tracking practical exploitation, web vulnerabilities, and network penetration testing across PortSwigger and Bandit.",
+        "tags": ["PortSwigger Labs", "Bandit OTW", "Burp Suite", "Web Pentesting"],
+        "footer_l": "Web Security & Network Labs",
+        "footer_r": "Security Research"
+    },
+    {
+        "id": "tabzero",
+        "title": "tabzero.",
+        "cmd": "cat ~/projects/tabzero.kt",
+        "badge": "MINDFUL TECH & ATTENTION",
+        "badge_color": "#22d3ee",
+        "badge_bg": "rgba(34, 211, 238, 0.15)",
+        "desc": "Mindful digital living ecosystem. Cross-platform extension & native Android APK replacing infinite scrolling with calm nature sanctuaries and dynamic weather focus nudges.",
+        "tags": ["Android APK", "Chrome / Firefox", "Local-First", "Focus Engine"],
+        "footer_l": "v1.0.2 Public Release",
+        "footer_r": "100% Offline & Private"
     }
 ]
 
