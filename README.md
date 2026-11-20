@@ -32,7 +32,7 @@ Alongside security testing, I enjoy building software from the ground up — exp
 ## What I'm Exploring
 Technologies, environments, and tools I use, explore, or study across coursework and projects:
 
-- **Languages:** Python, C / C++, TypeScript, SQL
+- **Languages:** Python, C / , TypeScript, SQL
 - **Security & Analysis:** Kali Linux, Burp Suite, Wireshark, Nmap, OWASP Top 10 methodology
 - **Web & Systems:** Web Crypto API, REST APIs, Linux systems
 
@@ -68,7 +68,7 @@ Technologies, environments, and tools I use, explore, or study across coursework
 │   |                                     |                                              │
 │   |                                     |    ~/toolkit                                 │
 │   |                                     |    ▸ Security: Kali, Burp, Wireshark, OWASP  │
-│   |                                     |    ▸ Dev: Python, C/C++, TypeScript, SQL     │
+│   |                                     |    ▸ Dev: Python, C/, TypeScript, SQL     │
 │   |                                     |    ───────────────────────────────────────── │
 │   |                                     |    "Build  •  Learn  •  Secure"              │
 │   └ - - - - - - - - - - - - - - - - - - ┘                                              │
