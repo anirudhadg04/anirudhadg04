@@ -58,12 +58,12 @@
 
 <!-- Key Value Specs -->
 <g class="term-text" font-size="13.5">
-  <text x="445" y="162"><tspan fill="#38bdf8" font-weight="700">OS:</tspan><tspan fill="#6e7681">        </tspan><tspan fill="#c9d1d9">TermuxOS v1.0</tspan></text>
+  <text x="445" y="162"><tspan fill="#38bdf8" font-weight="700">OS:</tspan><tspan fill="#6e7681">        </tspan><tspan fill="#c9d1d9">Kali Linux</tspan></text>
   <text x="445" y="188"><tspan fill="#38bdf8" font-weight="700">Shell:</tspan><tspan fill="#6e7681">     </tspan><tspan fill="#c9d1d9">bash 5.2</tspan></text>
-  <text x="445" y="214"><tspan fill="#38bdf8" font-weight="700">Uptime:</tspan><tspan fill="#6e7681">    </tspan><tspan fill="#c9d1d9">a long time</tspan></text>
-  <text x="445" y="240"><tspan fill="#38bdf8" font-weight="700">Role:</tspan><tspan fill="#6e7681">      </tspan><tspan fill="#c9d1d9">Library Author</tspan></text>
+  <text x="445" y="214"><tspan fill="#38bdf8" font-weight="700">Uptime:</tspan><tspan fill="#6e7681">    </tspan><tspan fill="#c9d1d9">always learning</tspan></text>
+  <text x="445" y="240"><tspan fill="#38bdf8" font-weight="700">Role:</tspan><tspan fill="#6e7681">      </tspan><tspan fill="#c9d1d9">Student &amp; Developer</tspan></text>
   <text x="445" y="266"><tspan fill="#38bdf8" font-weight="700">Location:</tspan><tspan fill="#6e7681">  </tspan><tspan fill="#c9d1d9">localhost</tspan></text>
-  <text x="445" y="292"><tspan fill="#38bdf8" font-weight="700">Languages:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">TypeScript, SVG, SML</tspan></text>
+  <text x="445" y="292"><tspan fill="#38bdf8" font-weight="700">Languages:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Python, C, TypeScript, SQL</tspan></text>
   <text x="445" y="318"><tspan fill="#38bdf8" font-weight="700">Editor:</tspan><tspan fill="#6e7681">    </tspan><tspan fill="#c9d1d9">vim (still trying to exit)</tspan></text>
 </g>
 
