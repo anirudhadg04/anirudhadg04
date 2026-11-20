@@ -116,7 +116,7 @@ def generate_svg():
         ("Role", "Student & Developer"),
         ("Focus", "Web Application Security Testing"),
         ("Practice", "CTF Challenges & Security Lab Methodologies"),
-        ("Languages", "Python, C / C++, TypeScript, SQL"),
+        ("Languages", "Python, C, TypeScript, SQL"),
         ("Security", "Burp Suite, Wireshark, Nmap, Kali Linux"),
         ("Frameworks", "OWASP Top 10 Methodology, Web Crypto API"),
         ("Contact", "anirudhaworks365@gmail.com")
