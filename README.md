@@ -3,7 +3,7 @@
 # ⚡ Anirudha DG (`@anirudhadg04`)
 
 > **Cybersecurity Researcher · Systems & Security Engineer**  
-> Focusing on offensive security, web application penetration testing, client-side cryptography sandboxes, and systems development.
+> Focusing on offensive security, web application penetration testing, client-side cryptography sandboxes, and low-level systems.
 
 <p align="center">
   <a href="https://github.com/anirudhadg04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -28,11 +28,10 @@
 <h3>🛡️ Featured Security & Systems Engineering</h3>
 
 <p align="center">
-  <a href="https://github.com/anirudhadg04/SecureBox"><img src="./cards/card-securebox.svg" width="49.5%" alt="SecureBox" /></a>
-  <a href="https://github.com/anirudhadg04/VerySecureWebsite"><img src="./cards/card-appsec.svg" width="49.5%" alt="VerySecureWebsite" /></a>
+  <a href="https://github.com/anirudhadg04/SecureBox"><img src="./cards/card-securebox.svg" width="49.5%" alt="SecureTheBox" /></a>
+  <a href="https://github.com/anirudhadg04/VerySecureWebsite"><img src="./cards/card-verysecurewebsite.svg" width="49.5%" alt="VerySecureWebsite" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/anirudhadg04/CyberLabs"><img src="./cards/card-cyberlabs.svg" width="49.5%" alt="CyberLabs" /></a>
   <a href="https://github.com/anirudhadg04/tabzero"><img src="./cards/card-tabzero.svg" width="49.5%" alt="tabzero" /></a>
 </p>
 
