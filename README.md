@@ -2,8 +2,8 @@
 
 # Anirudha DG (`@anirudhadg04`)
 
-> **Cybersecurity Researcher · Systems & Security Engineer**  
-> Focusing on offensive security, web application penetration testing, client-side cryptography sandboxes, and systems development.
+> **Student & Developer · Exploring Application Security & Systems**  
+> Learning web application security, practicing CTF challenges and lab methodologies, and building practical software.
 
 <p align="center">
   <a href="https://github.com/anirudhadg04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -24,8 +24,8 @@
 
 <br/>
 
-<!-- 3. Featured Security & Systems Engineering -->
-<h3>🛡️ Featured Security & Systems Engineering</h3>
+<!-- 3. Featured Projects & Labs -->
+<h3>🛡️ Featured Projects & Security Labs</h3>
 
 <p align="center">
   <a href="https://github.com/anirudhadg04/SecureBox"><img src="./cards/card-securebox.svg" width="49.5%" alt="SecureTheBox" /></a>
@@ -37,8 +37,8 @@
 
 <br/>
 
-<!-- 4. Security & Engineering Toolchain -->
-<h3>⚔️ Security & Engineering Toolchain</h3>
+<!-- 4. Learning & Toolchain -->
+<h3>🛠️ Technologies & Tools I'm Learning & Using</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/Web%20Crypto-AES--256--GCM-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/AppSec-OWASP%20Top%2010-ef4444?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-OWASP%20Top%2010-ef4444?style=flat-square" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white" />
 </p>
