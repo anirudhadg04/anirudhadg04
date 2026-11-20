@@ -45,7 +45,7 @@ Technologies, environments, and tools I use, explore, or study across coursework
 ---
 
 <details>
-<summary>🖥️ <b>Terminal Neofetch (Direct Text Fallback)</b></summary>
+<summary>🖥️ <b>Terminal Overview (Direct Text Fallback)</b></summary>
 <br/>
 
 ```text
@@ -55,24 +55,22 @@ Technologies, environments, and tools I use, explore, or study across coursework
 │ you@dev:~$ neofetch                                                                    │
 │                                                                                        │
 │   ┌ - - - - - - - - - - - - - - - - - - ┐    Anirudha DG                               │
+│   |                                     |    Student & Developer · Security Researcher │
 │   |                                     |                                              │
-│   |                 #*###*              |    OS:        Kali Linux                     │
-│   |               ****#####+            |    Shell:     bash 5.2                       │
-│   |             #+==*+=*####*-          |    Uptime:    always learning                │
-│   |             #:.::::+***##*.         |    Role:      Student & Developer            │
-│   |            *#::::  =***##*:         |    Location:  localhost                      │
-│   |             #=--:   **###*=         |    Languages: Python, C, TypeScript, SQL     │
-│   |             +#*+++**####**-         |    Editor:    vim (still trying to exit)     │
-│   |            =++*+-+*######+          |    ───────────────────────────────────────── │
-│   |            -=-=-=-=++*###*          |    "Build  •  Learn  •  Secure"              │
-│   |     ::---=-:------===+=====--=====  |                                              │
-│   |    ::--------:-::------------===+== |                                              │
-│   |    ::-=+--:--:--:---:------=-++==+**|                                              │
-│   |..::---=+---=---------=-----=+=--++==|                                              │
-│   |..:::::-+--==-----==-==--===+*--====+|                                              │
-│   |.:... :::--=======+=-=======+#=====++|                                              │
-│   |--:.::::----=+++*#*##*#*+++++*==+++=*|                                              │
-│   |--:::::::::::--==-=+++**####%*+*+++++|                                              │
+│   |                                     |    ~/security-focus                          │
+│   |                                     |    ▸ Web Application & Software Security     │
+│   |                                     |                                              │
+│   |            [ Add ASCII              |    ~/projects                                │
+│   |            picture here ]           |    ▸ SecureBox — AES-256-GCM doc encryption  │
+│   |                                     |    ▸ VerySecureWebsite — AppSec testing lab  │
+│   |                                     |    ▸ tabzero — Wellness (MV3 + Android)      │
+│   |                                     |    ▸ Vachana — Voice-first Kannada NLP       │
+│   |                                     |                                              │
+│   |                                     |    ~/toolkit                                 │
+│   |                                     |    ▸ Security: Kali, Burp, Wireshark, OWASP  │
+│   |                                     |    ▸ Dev: Python, C/C++, TypeScript, SQL     │
+│   |                                     |    ───────────────────────────────────────── │
+│   |                                     |    "Build  •  Learn  •  Secure"              │
 │   └ - - - - - - - - - - - - - - - - - - ┘                                              │
 │                                                                                        │
 └────────────────────────────────────────────────────────────────────────────────────────┘
