@@ -1,9 +1,9 @@
 <div align="center">
 
-# ⚡ Anirudha DG (`@anirudhadg04`)
+# Anirudha DG (`@anirudhadg04`)
 
 > **Cybersecurity Researcher · Systems & Security Engineer**  
-> Focusing on offensive security, web application penetration testing, client-side cryptography sandboxes, and low-level systems.
+> Focusing on offensive security, web application penetration testing, client-side cryptography sandboxes, and systems development.
 
 <p align="center">
   <a href="https://github.com/anirudhadg04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -24,7 +24,7 @@
 
 <br/>
 
-<!-- 3. Featured Security & Systems Projects -->
+<!-- 3. Featured Security & Systems Engineering -->
 <h3>🛡️ Featured Security & Systems Engineering</h3>
 
 <p align="center">
