@@ -169,9 +169,6 @@ def generate_svg():
   <text x="{PAD_X}" y="526" font-size="13.5">
     <tspan class="key-txt">Security:   </tspan><tspan class="val-txt">Kali Linux, Burp Suite, Wireshark, Nmap, OWASP Top 10</tspan>
   </text>
-  <text x="{PAD_X}" y="546" font-size="13.5">
-    <tspan class="key-txt">Web &amp; Sys:  </tspan><tspan class="val-txt">Web Crypto API, REST APIs, Linux systems</tspan>
-  </text>
 
   <!-- Section 5: contact list -->
   <text x="{PAD_X}" y="580" font-size="14">
