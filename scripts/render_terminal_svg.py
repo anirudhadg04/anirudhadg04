@@ -47,7 +47,7 @@ def generate_svg():
   @keyframes blink {{ 0%, 49% {{ opacity: 1; }} 50%, 100% {{ opacity: 0; }} }}
   @keyframes termFadeIn {{ from {{ opacity: 0; transform: translateY(6px); }} to {{ opacity: 1; transform: translateY(0); }} }}
   .term-window {{ animation: termFadeIn 0.4s ease-out both; }}
-  .cursor {{ animation: blink 1s infinite; fill: {CURSOR}; }}
+  .cursor {{ animation: blink 1s step-end infinite; fill: {CURSOR}; }}
   .term-text {{ font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }}
   .prompt-user {{ fill: {PROMPT_USER}; font-weight: 700; }}
   .prompt-at {{ fill: {PROMPT_AT}; }}
@@ -63,7 +63,6 @@ def generate_svg():
   .bullet {{ fill: {BULLET}; }}
   @media (prefers-reduced-motion: reduce) {{
     .term-window {{ animation: none !important; opacity: 1 !important; transform: none !important; }}
-    .cursor {{ animation: none !important; opacity: 1 !important; }}
     #typingClip rect {{ width: 680px !important; }}
   }}
 </style>
@@ -190,7 +189,7 @@ def generate_svg():
   <!-- Final active prompt without motto -->
   <text x="{PAD_X}" y="668" font-size="14">
     <tspan class="prompt-user">anirudha</tspan><tspan class="prompt-at">@</tspan><tspan class="prompt-host">dev</tspan><tspan class="prompt-path">:~$ </tspan>
-    <tspan class="cursor">&#x2588;</tspan>
+    <tspan class="cursor">&#x2588;<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.49;0.5;0.99;1" dur="1s" repeatCount="indefinite" /></tspan>
   </text>
 
 </g>
