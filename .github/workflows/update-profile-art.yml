@@ -37,9 +37,10 @@ jobs:
           python scripts/render_heatmap_svg.py
           python scripts/render_stats_svg.py
           python scripts/render_project_cards.py
+          python scripts/render_terminal_svg.py
 
       - name: Commit and Push Updated Profile SVGs
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore(art): refresh daily contribution heatmap & stats [skip ci]"
-          file_pattern: "contrib-heatmap.svg stats.svg data/contributions.json cards/*.svg"
+          file_pattern: "contrib-heatmap.svg stats.svg data/contributions.json cards/*.svg terminal.svg"
