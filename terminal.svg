@@ -121,7 +121,7 @@
     <tspan class="prompt-cmd">cat toolkit.txt</tspan>
   </text>
   <text x="325" y="440" font-size="11.5">
-    <tspan class="key-txt">Languages:  </tspan><tspan class="val-txt">Python, C / C++, TypeScript, SQL</tspan>
+    <tspan class="key-txt">Languages:  </tspan><tspan class="val-txt">Python, C, TypeScript, SQL</tspan>
   </text>
   <text x="325" y="456" font-size="11.5">
     <tspan class="key-txt">Security:   </tspan><tspan class="val-txt">Kali Linux, Burp Suite, Wireshark, Nmap, OWASP Top 10</tspan>
