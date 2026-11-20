@@ -5,6 +5,6 @@
 <br/>
 
 ### Quick Navigation
-[GitHub](https://github.com/anirudhadg04) · [Repositories](https://github.com/anirudhadg04?tab=repositories) · [SecureBox](https://github.com/anirudhadg04/SecureBox) · [VerySecureWebsite](https://github.com/anirudhadg04/VerySecureWebsite) · [tabzero](https://github.com/anirudhadg04/tabzero) · [Email](mailto:anirudhaworks365@gmail.com)
+[Repositories](https://github.com/anirudhadg04?tab=repositories) · [SecureBox](https://github.com/anirudhadg04/SecureBox) · [VerySecureWebsite](https://github.com/anirudhadg04/VerySecureWebsite) · [tabzero](https://github.com/anirudhadg04/tabzero) · [Email](mailto:anirudhaworks365@gmail.com)
 
 </div>
