@@ -76,7 +76,7 @@
     <tspan class="bullet">&#x25b8; </tspan><tspan fill="#38bdf8">Security:</tspan><tspan class="txt-val"> Kali Linux, Burp Suite, Wireshark, Nmap, OWASP</tspan>
   </text>
   <text x="415" y="369" font-size="11.5">
-    <tspan class="bullet">&#x25b8; </tspan><tspan fill="#38bdf8">Dev:</tspan><tspan class="txt-val">      Python, C/C++, TypeScript, SQL, Web Crypto API</tspan>
+    <tspan class="bullet">&#x25b8; </tspan><tspan fill="#38bdf8">Dev:</tspan><tspan class="txt-val">      Python, C, TypeScript, SQL, Web Crypto API</tspan>
   </text>
 
   <!-- Divider Line -->
