@@ -17,7 +17,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-anirudhaworks365%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhaworks365@gmail.com)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=anirudhadg04&label=Views&color=1d4ed8&style=for-the-badge)
+
 
 <br/>
 
